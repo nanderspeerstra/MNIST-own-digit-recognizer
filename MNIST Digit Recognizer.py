@@ -1,9 +1,8 @@
-# Author Information
-__author__ = "Nander Speerstra"
-__copyright__ = "Copyright (C) 2016 Nander Speerstra"
-__license__ = "Public Domain"
-__version__ = "1.0"
-
+## Author Information ##
+# Author    = "Nander Speerstra"
+# Copyright = "Copyright (C) 2016 Nander Speerstra"
+# License   = "Public Domain"
+# Version   = "1.0"
 
 import pygame, random, os
 from io import StringIO
